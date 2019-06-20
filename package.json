@@ -1,0 +1,26 @@
+{
+  "name": "terminal-pixel-art",
+  "version": "1.0.0",
+  "description": "Add colored art to your terminal!",
+  "main": "./terminal-pixel-art.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luca Mugnaini <lucamug@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "terminal",
+    "pixel art"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lucamug/terminal-pixel-art"
+  },
+  "bin": {
+      "terminal-pixel-art": "./terminal-pixel-art.js"
+  }
+}
